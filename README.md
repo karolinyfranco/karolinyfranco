@@ -1,7 +1,5 @@
 # Welcome to my profile! :)
 
----
-
 ## 🚀 About me  
 - Currently in the **third semester** of my CS degree 
 - Developing projects mainly in **Javascript and Java** in the moment 
@@ -23,24 +21,3 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinyfranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinyfranco&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=karolinyfranco&theme=tokyonight" />
-</div>
-
-⭐ **Thanks for reading!**
-
-<!--
-**karolinyfranco/karolinyfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
