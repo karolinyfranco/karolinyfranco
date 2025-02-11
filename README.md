@@ -2,7 +2,7 @@
 
 ## 🚀 About me  
 - Currently in the **third semester** of my CS degree 
-- Developing projects mainly in **Javascript and Java** in the moment 
+- Developing projects mainly in **Java and Javascript** in the moment 
 - Exploring the world of **Computer Vision, AI** and more
 - I also love graphic design and 3D modeling, having knowledge especially in **Blender and Krita**
 
