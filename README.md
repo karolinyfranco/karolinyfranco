@@ -1,46 +1,42 @@
-# Olá! Eu sou a Karoliny 👋
-
-![Linguagens mais usadas](https://img.shields.io/github/languages/top/seu-usuario/seu-usuario?style=plastic)  
+# Welcome to my profile! :)
 
 ---
 
-## 🚀 Sobre mim  
-🎓 Estudante de Ciência da Computação na **FAESA**  
-💻 Desenvolvendo projetos em **Java, Python e JavaScript**  
-⚡ Explorando **Hardware e Robótica**  
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
+## 🚀 About me  
+- Currently in the **third semester** of my CS degree 
+- Developing projects mainly in **Javascript and Java** in the moment 
+- Exploring the world of **Computer Vision, AI** and more
+- I also love graphic design and 3D modeling, having knowledge especially in **Blender and Krita**
 
 ---
 
-## 🛠️ Tecnologias que uso:  
+## 💻 Technologies and Tools  
 
-### 👨‍💻 Linguagens  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />
+          
+---
 
-### 🔧 Ferramentas & Bancos de Dados  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+## 🌱 Currently learning...
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 GitHub Statistics  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=karolinyfranco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinyfranco&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" />
+  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=karolinyfranco&theme=tokyonight" />
 </div>
 
 ---
 
-⭐ **Se gostou, deixe um star nos meus repositórios! :)**
+⭐ **Thanks for reading!**
 
 <!--
 **karolinyfranco/karolinyfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
